@@ -1,0 +1,204 @@
+{
+  "ngos": [
+    {
+      "id": "NGO001",
+      "name": "Akshaya Patra Foundation",
+      "location": {
+        "state": "Karnataka",
+        "district": "Bangalore",
+        "coordinates": [12.9716, 77.5946],
+        "address": "The Akshaya Patra Foundation, Vasanthapura, Bangalore"
+      },
+      "contact": {
+        "phone": "+91-80-30143400",
+        "email": "info@akshayapatra.org",
+        "website": "https://www.akshayapatra.org",
+        "whatsapp": "+91-9876543210"
+      },
+      "specialization": ["food", "education", "child_welfare"],
+      "capacity": {
+        "daily_meals": 50000,
+        "beneficiaries": 200000,
+        "volunteers": 1000
+      },
+      "coverage_areas": ["Karnataka", "Andhra Pradesh", "Tamil Nadu", "Telangana"],
+      "resources": ["food_distribution", "mobile_kitchens", "nutrition_programs"],
+      "response_time_hours": 6,
+      "verification_status": "verified",
+      "rating": 4.8
+    },
+    {
+      "id": "NGO002", 
+      "name": "Smile Foundation",
+      "location": {
+        "state": "Delhi",
+        "district": "New Delhi",
+        "coordinates": [28.6139, 77.2090],
+        "address": "1st Floor, Bharti Bhawan, Kasturba Gandhi Marg, New Delhi"
+      },
+      "contact": {
+        "phone": "+91-11-43123700",
+        "email": "info@smilefoundationindia.org", 
+        "website": "https://www.smilefoundationindia.org",
+        "whatsapp": "+91-9876543211"
+      },
+      "specialization": ["education", "healthcare", "livelihood"],
+      "capacity": {
+        "beneficiaries": 500000,
+        "volunteers": 2000,
+        "projects": 400
+      },
+      "coverage_areas": ["Delhi", "Uttar Pradesh", "Bihar", "Jharkhand", "West Bengal"],
+      "resources": ["mobile_health_units", "education_centers", "skill_training"],
+      "response_time_hours": 4,
+      "verification_status": "verified",
+      "rating": 4.7
+    },
+    {
+      "id": "NGO003",
+      "name": "CRY - Child Rights and You",
+      "location": {
+        "state": "Maharashtra", 
+        "district": "Mumbai",
+        "coordinates": [19.0760, 72.8777],
+        "address": "632, Lane No. 3, Westend Marg, Saidullajab, New Delhi"
+      },
+      "contact": {
+        "phone": "+91-22-33455500",
+        "email": "info@cryindia.org",
+        "website": "https://www.cryindia.org",
+        "whatsapp": "+91-9876543212"
+      },
+      "specialization": ["child_rights", "education", "healthcare"],
+      "capacity": {
+        "beneficiaries": 750000,
+        "volunteers": 1500,
+        "partner_organizations": 300
+      },
+      "coverage_areas": ["Maharashtra", "Gujarat", "Rajasthan", "Madhya Pradesh"],
+      "resources": ["child_protection", "education_programs", "health_interventions"],
+      "response_time_hours": 8,
+      "verification_status": "verified", 
+      "rating": 4.6
+    },
+    {
+      "id": "NGO004",
+      "name": "Pratham Education Foundation",
+      "location": {
+        "state": "Maharashtra",
+        "district": "Mumbai", 
+        "coordinates": [19.0760, 72.8777],
+        "address": "A-1/2, Saket, Delhi Pratham Office"
+      },
+      "contact": {
+        "phone": "+91-11-29542318",
+        "email": "info@pratham.org",
+        "website": "https://www.pratham.org",
+        "whatsapp": "+91-9876543213"
+      },
+      "specialization": ["education", "literacy", "skill_development"],
+      "capacity": {
+        "beneficiaries": 1000000,
+        "volunteers": 3000,
+        "learning_centers": 2000
+      },
+      "coverage_areas": ["All India"],
+      "resources": ["literacy_programs", "vocational_training", "digital_learning"],
+      "response_time_hours": 12,
+      "verification_status": "verified",
+      "rating": 4.9
+    },
+    {
+      "id": "NGO005",
+      "name": "Goonj",
+      "location": {
+        "state": "Delhi",
+        "district": "New Delhi",
+        "coordinates": [28.6139, 77.2090], 
+        "address": "R-221, Sarita Vihar, New Delhi"
+      },
+      "contact": {
+        "phone": "+91-11-26972351",
+        "email": "info@goonj.org",
+        "website": "https://www.goonj.org",
+        "whatsapp": "+91-9876543214"
+      },
+      "specialization": ["disaster_relief", "rural_development", "menstrual_hygiene"],
+      "capacity": {
+        "beneficiaries": 300000,
+        "volunteers": 800,
+        "collection_centers": 100
+      },
+      "coverage_areas": ["Delhi", "Rajasthan", "Assam", "Bihar", "Odisha"],
+      "resources": ["cloth_distribution", "school_material", "dignity_kits"],
+      "response_time_hours": 24,
+      "verification_status": "verified",
+      "rating": 4.5
+    },
+    {
+      "id": "NGO006",
+      "name": "HelpAge India",
+      "location": {
+        "state": "Delhi", 
+        "district": "New Delhi",
+        "coordinates": [28.6139, 77.2090],
+        "address": "C-14, Qutab Institutional Area, New Delhi"
+      },
+      "contact": {
+        "phone": "+91-11-41688955",
+        "email": "info@helpageindia.org",
+        "website": "https://www.helpageindia.org",
+        "whatsapp": "+91-9876543215"
+      },
+      "specialization": ["elderly_care", "healthcare", "disaster_relief"],
+      "capacity": {
+        "beneficiaries": 500000,
+        "volunteers": 1200,
+        "mobile_healthcare_units": 50
+      },
+      "coverage_areas": ["All India"],
+      "resources": ["mobile_healthcare", "elderly_support", "cataract_surgeries"],
+      "response_time_hours": 6,
+      "verification_status": "verified",
+      "rating": 4.4
+    }
+  ],
+  "government_departments": [
+    {
+      "id": "DEPT001",
+      "name": "Ministry of Rural Development",
+      "contact": {
+        "phone": "+91-11-23381313",
+        "email": "secy-rd@nic.in",
+        "website": "https://rural.nic.in"
+      },
+      "specialization": ["rural_development", "poverty_alleviation", "employment"],
+      "programs": ["MGNREGA", "PMAY-G", "NRLM"],
+      "response_time_hours": 48
+    },
+    {
+      "id": "DEPT002", 
+      "name": "Ministry of Health and Family Welfare",
+      "contact": {
+        "phone": "+91-11-23061863",
+        "email": "secy-mohfw@nic.in",
+        "website": "https://mohfw.gov.in"
+      },
+      "specialization": ["healthcare", "nutrition", "sanitation"],
+      "programs": ["Ayushman_Bharat", "National_Health_Mission", "Swachh_Bharat"],
+      "response_time_hours": 24
+    },
+    {
+      "id": "DEPT003",
+      "name": "Ministry of Education", 
+      "contact": {
+        "phone": "+91-11-23382698",
+        "email": "secy-school@nic.in",
+        "website": "https://education.gov.in"
+      },
+      "specialization": ["education", "literacy", "skill_development"],
+      "programs": ["Samagra_Shiksha", "Mid_Day_Meal", "Digital_India"],
+      "response_time_hours": 72
+    }
+  ]
+}

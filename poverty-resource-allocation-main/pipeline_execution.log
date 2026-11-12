@@ -1,0 +1,15 @@
+[2025-08-03 23:32:37] Environment Setup: SUCCESS (0.00s) - Default configuration created
+[2025-08-03 23:32:37] Data Collection: SUCCESS (0.02s) - Generated 100 district records
+[2025-08-03 23:32:37] Data Preprocessing: ERROR (0.05s) - The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+[2025-08-03 23:33:01] Environment Setup: SUCCESS (0.00s) - Configuration loaded
+[2025-08-03 23:33:01] Data Collection: SUCCESS (0.02s) - Generated 100 district records
+[2025-08-03 23:33:01] Data Preprocessing: SUCCESS (0.03s) - Processed 100 records with 25 features
+[2025-08-03 23:33:03] Model Training: SUCCESS (2.21s) - Best model: RandomForest (Accuracy: 0.9500)
+[2025-08-03 23:33:05] Resource Allocation: SUCCESS (1.85s) - Allocated budget: ₹5,000,000,000
+[2025-08-03 23:33:12] Visualization: SUCCESS (7.22s) - Generated 19 visualization files
+[2025-08-03 23:41:59] Environment Setup: SUCCESS (0.00s) - Configuration loaded
+[2025-08-03 23:41:59] Data Collection: SUCCESS (0.02s) - Generated 100 district records
+[2025-08-03 23:41:59] Data Preprocessing: SUCCESS (0.03s) - Processed 100 records with 25 features
+[2025-08-03 23:42:01] Model Training: SUCCESS (1.98s) - Best model: RandomForest (Accuracy: 0.9500)
+[2025-08-03 23:42:03] Resource Allocation: SUCCESS (1.85s) - Allocated budget: ₹5,000,000,000
+[2025-08-03 23:42:10] Visualization: SUCCESS (7.22s) - Generated 19 visualization files

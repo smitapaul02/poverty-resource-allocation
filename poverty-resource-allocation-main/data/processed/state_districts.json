@@ -1,0 +1,128 @@
+{
+  "Andhra Pradesh": [
+    "Hyderabad"
+  ],
+  "Assam": [
+    "Guwahati"
+  ],
+  "Bihar": [
+    "Bhagalpur",
+    "Darbhanga",
+    "Gaya",
+    "Patna"
+  ],
+  "Gujarat": [
+    "Ahmedabad",
+    "Surat"
+  ],
+  "Karnataka": [
+    "Bangalore"
+  ],
+  "Madhya Pradesh": [
+    "Bhopal"
+  ],
+  "Maharashtra": [
+    "Mumbai",
+    "Pune"
+  ],
+  "Other": [
+    "Agra",
+    "Ajmer",
+    "Aligarh",
+    "Allahabad",
+    "Alwar",
+    "Ambala",
+    "Amravati",
+    "Amritsar",
+    "Anand",
+    "Araria",
+    "Asansol",
+    "Aurangabad",
+    "Bardhaman",
+    "Bareilly",
+    "Batala",
+    "Bathinda",
+    "Begusarai",
+    "Belgaum",
+    "Bharatpur",
+    "Bhavnagar",
+    "Bikaner",
+    "Bongaigaon",
+    "Coimbatore",
+    "Davanagere",
+    "Dewas",
+    "Dharwad",
+    "Dibrugarh",
+    "Durgapur",
+    "Erode",
+    "Faridabad",
+    "Gandhinagar",
+    "Gulbarga",
+    "Guntur",
+    "Gurgaon",
+    "Gwalior",
+    "Hoshiarpur",
+    "Howrah",
+    "Hubli",
+    "Indore",
+    "Jabalpur",
+    "Jalandhar",
+    "Jamnagar",
+    "Jodhpur",
+    "Jorhat",
+    "Kanpur",
+    "Kharagpur",
+    "Kolhapur",
+    "Kota",
+    "Kurnool",
+    "Madurai",
+    "Malda",
+    "Mangalore",
+    "Meerut",
+    "Mohali",
+    "Muzaffarpur",
+    "Mysore",
+    "Nagaon",
+    "Nagpur",
+    "Nashik",
+    "Nellore",
+    "Panipat",
+    "Patiala",
+    "Purnia",
+    "Rajahmundry",
+    "Rajkot",
+    "Sagar",
+    "Salem",
+    "Satna",
+    "Silchar",
+    "Siliguri",
+    "Solapur",
+    "Tezpur",
+    "Tinsukia",
+    "Tiruchirappalli",
+    "Tirunelveli",
+    "Tirupati",
+    "Udaipur",
+    "Ujjain",
+    "Vadodara",
+    "Varanasi",
+    "Vellore",
+    "Vijayawada",
+    "Visakhapatnam"
+  ],
+  "Punjab": [
+    "Ludhiana"
+  ],
+  "Rajasthan": [
+    "Jaipur"
+  ],
+  "Tamil Nadu": [
+    "Chennai"
+  ],
+  "Uttar Pradesh": [
+    "Lucknow"
+  ],
+  "West Bengal": [
+    "Kolkata"
+  ]
+}

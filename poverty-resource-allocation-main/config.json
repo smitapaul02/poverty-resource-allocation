@@ -1,0 +1,84 @@
+{
+  "data_collection": {
+    "num_districts": 500,
+    "random_seed": 42,
+    "include_states": true,
+    "include_real_data": true,
+    "data_sources": ["government", "ngo", "census", "survey"]
+  },
+  "preprocessing": {
+    "handle_missing_values": true,
+    "normalize_features": true,
+    "remove_outliers": true,
+    "test_size": 0.15,
+    "feature_engineering": true,
+    "advanced_scaling": true
+  },
+  "model_training": {
+    "algorithms": [
+      "RandomForest",
+      "XGBoost", 
+      "LightGBM",
+      "CatBoost",
+      "ExtraTrees",
+      "GradientBoosting"
+    ],
+    "optimize_hyperparameters": true,
+    "hyperparameter_optimization": "optuna",
+    "cross_validation_folds": 10,
+    "random_state": 42,
+    "ensemble_methods": true,
+    "model_interpretability": true,
+    "real_time_training": true
+  },
+  "resource_allocation": {
+    "default_strategy": {
+      "Critical": 0.4,
+      "High": 0.3,
+      "Medium": 0.2,
+      "Low": 0.1
+    },
+    "total_budget": 10000000000,
+    "allocation_method": "ai_optimized",
+    "resource_types": ["food", "water", "healthcare", "education", "infrastructure"],
+    "emergency_allocation": true,
+    "real_time_allocation": true
+  },
+  "ngo_integration": {
+    "enabled": true,
+    "database_path": "data/ngo_database.json",
+    "notification_system": true,
+    "contact_methods": ["email", "sms", "whatsapp"],
+    "auto_matching": true,
+    "proximity_radius_km": 50
+  },
+  "government_integration": {
+    "enabled": true,
+    "notification_system": true,
+    "reporting_dashboard": true,
+    "real_time_updates": true,
+    "department_contacts": true
+  },
+  "visualization": {
+    "create_interactive": true,
+    "save_high_resolution": true,
+    "color_scheme": "advanced",
+    "real_time_dashboards": true,
+    "3d_visualizations": true,
+    "geographic_mapping": true,
+    "poverty_heatmaps": true
+  },
+  "real_time_system": {
+    "enabled": true,
+    "update_frequency_minutes": 15,
+    "alert_system": true,
+    "monitoring_dashboard": true,
+    "api_endpoints": true
+  },
+  "security": {
+    "data_encryption": true,
+    "user_authentication": true,
+    "access_control": true,
+    "audit_logging": true
+  }
+}
